@@ -32,11 +32,11 @@ apigee_00[3:4]
 
 # Inventory Group for nodes that fulfill PostgresSQL Master Roles, if a Master is defined
 [dc_1_pgmaster]
-apigee_004
+apigee_003
 
 # Inventory Group for nodes that fulfill PostgresSQL Standby Roles, if a Standby is defined
 [dc_1_pgstandby]
-apigee_005
+apigee_004
 
 # Inventory Group for Postgres in data center, May need to be modified if no Postgres Master or Standby defined.
 [dc_1_pg:children]

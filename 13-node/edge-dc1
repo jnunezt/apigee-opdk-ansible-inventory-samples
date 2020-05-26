@@ -21,17 +21,14 @@ apigee_00[0:2]
 # Inventory Group for nodes that fulfill Management Server Roles
 [dc_1_ms]
 apigee_005
-apigee_006
 
 # Inventory Group for nodes that fulfill LDAP Roles
 [dc_1_ldap]
 apigee_003
-apigee_004
 
 # Inventory Group for nodes that fulfill UI Roles
 [dc_1_ui]
 apigee_005
-apigee_006
 
 # Inventory Group for nodes that fulfill Router & Message Processor Roles
 [dc_1_rmp]
